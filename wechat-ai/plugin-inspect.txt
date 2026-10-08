@@ -1,0 +1,50 @@
+包: @tencent-weixin/openclaw-weixin-cli@2.1.4
+tarball: https://registry.npmmirror.com/@tencent-weixin/openclaw-weixin-cli/-/openclaw-weixin-cli-2.1.4.tgz
+bin: {"weixin-installer":"cli.mjs"}
+main: undefined
+scripts: {}
+dependencies: {}
+description: Lightweight installer for the OpenClaw Weixin channel plugin
+_npmUser: {"name":"pumpkinxing","email":"pumpkinxing@tencent.com"}
+
+tarball 大小: 7.8 KB
+
+=== 包内文件（共 6 个）===
+  package/LICENSE  (1069 B)
+  package/package.json  (564 B)
+  package/README.md  (2605 B)
+  package/cli.mjs  (14177 B)
+  package/lib/compat.mjs  (1800 B)
+  package/lib/version-check.mjs  (2543 B)
+
+=== 包内 package.json ===
+{
+  "name": "@tencent-weixin/openclaw-weixin-cli",
+  "version": "2.1.4",
+  "description": "Lightweight installer for the OpenClaw Weixin channel plugin",
+  "license": "MIT",
+  "author": "Tencent",
+  "type": "module",
+  "bin": {
+    "weixin-installer": "./cli.mjs"
+  },
+  "files": [
+    "cli.mjs",
+    "lib/"
+  ],
+  "scripts": {},
+  "peerDependencies": {
+    "openclaw": ">=2026.3.0"
+  },
+  "peerDependenciesMeta": {
+    "openclaw": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "openclaw": "2026.3.22"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
