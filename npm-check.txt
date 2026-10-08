@@ -1,0 +1,61 @@
+# npm registry 核实（via registry.npmmirror.com）
+# 时间: 2026-10-06T14:00:50.122Z
+
+=== @tencent-weixin/openclaw-weixin-cli ===
+说明: 腾讯官方微信 ClawBot 插件（CowAgent 文档给出的命令）
+  数据源: https://registry.npmmirror.com/
+  最新版本    : 2.1.4
+  创建 / 修改 : 2026-03-21T14:36:35.534Z  /  2026-09-01T02:43:23.850Z
+  版本总数    : 9
+  发布者      : pumpkinxing <pumpkinxing@tencent.com>
+  maintainers : jfengjiang<jfengjiang@tencent.com>, amikara<fredynai@tencent.com>, pumpkinxing<pumpkinxing@tencent.com>, yubingluo<yubingluo@tencent.com>, unixliang<unixliang@tencent.com>, ruiqihong<ruiqihong@tencent.com>, zengyi1001<zengyi1001@gmail.com>
+  repository  : null
+  homepage    : -
+  license     : MIT
+  描述        : Lightweight installer for the OpenClaw Weixin channel plugin
+  最近5个版本发布时间:
+      2.1.4   2026-05-15T09:53:51.369Z
+      2.1.3   2026-05-04T11:01:36.967Z
+      2.1.2   2026-03-31T14:15:24.696Z
+      2.1.1   2026-03-27T17:37:06.310Z
+      2.0.1   2026-03-24T07:05:00.097Z
+
+=== @sliverp/qqbot ===
+说明: QQ 官方 OpenClaw 机器人插件（对照）
+  数据源: https://registry.npmmirror.com/
+  最新版本    : 1.6.1
+  创建 / 修改 : 2026-02-04T06:52:59.262Z  /  2026-03-17T04:00:38.949Z
+  版本总数    : 19
+  发布者      : sliverp <870080352@qq.com>
+  maintainers : sliverp<870080352@qq.com>
+  repository  : null
+  homepage    : https://github.com/sliverp/qqbot
+  license     : -
+  描述        : <div align="center">
+  最近5个版本发布时间:
+      1.6.1   2026-03-17T04:00:21.981Z
+      1.5.4   2026-03-10T02:29:57.829Z
+      1.5.3   2026-03-07T03:48:10.856Z
+      1.5.2   2026-03-06T06:09:30.118Z
+      1.5.1   2026-03-03T07:45:32.718Z
+
+=== openclaw ===
+说明: OpenClaw 本体
+  数据源: https://registry.npmmirror.com/
+  最新版本    : 2026.9.8
+  创建 / 修改 : 2026-01-29T11:08:23.964Z  /  2026-10-05T17:55:36.489Z
+  版本总数    : 266
+  发布者      : GitHub Actions <npm-oidc-no-reply@github.com>
+  maintainers : steipete<steipete@gmail.com>, vincentkoc<vincentkoc@ieee.org>
+  repository  : {"url":"git+https://github.com/openclaw/openclaw.git","type":"git"}
+  homepage    : https://github.com/openclaw/openclaw#readme
+  license     : MIT
+  描述        : Multi-channel AI gateway with extensible messaging integrations
+  最近5个版本发布时间:
+      2026.10.1-beta.1   2026-10-05T17:55:06.365Z
+      2026.9.8   2026-10-03T02:08:46.095Z
+      2026.8.35   2026-10-02T13:20:17.208Z
+      2026.8.34   2026-10-01T20:28:57.660Z
+      2026.9.7   2026-09-30T03:38:09.894Z
+
+=== 完成 ===
